@@ -3,7 +3,7 @@ package ambulance_wl
 import (
 	"net/http"
 
-	"github.com/<github-id>/ambulance-webapi/internal/db_service"
+	"github.com/JSimko4/ambulance-webapi/internal/db_service"
 	"github.com/gin-gonic/gin"
 )
 
